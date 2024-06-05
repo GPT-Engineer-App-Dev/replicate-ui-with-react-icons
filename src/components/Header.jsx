@@ -1,5 +1,5 @@
 import { Box, Heading, HStack, IconButton, Button } from "@chakra-ui/react";
-import { FaBell, FaQuestionCircle, FaUserCircle } from "react-icons/fa";
+import { FaBell, FaQuestionCircle, FaUserCircle, FaPlus } from "react-icons/fa";
 
 const Header = () => {
   return (
